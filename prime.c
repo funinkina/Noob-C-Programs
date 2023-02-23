@@ -15,5 +15,4 @@ int main(){
     else{
         printf("%d is not prime!", num);
     }
-    printf("\nChinmay Nanda");
 }    
