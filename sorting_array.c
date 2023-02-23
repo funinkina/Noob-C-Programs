@@ -28,5 +28,4 @@ printf("The array is {");
         printf("%d, ", a[i]);
     }
     printf("}\n");
-    printf("\nChinmay Nanda");
 }
