@@ -23,5 +23,4 @@ void main(){
         r+= x[i][i];
     }
     printf("Sum of diagonal elements is %d", r);
-    printf("\nChinmay Nanda");
 }
