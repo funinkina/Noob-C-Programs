@@ -8,5 +8,4 @@
         sum += a[i];
     }
     printf("Sum of all the elements of array is %d", sum);
-    printf("\nChinmay Nanda");
  }
