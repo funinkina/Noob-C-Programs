@@ -11,5 +11,4 @@ void main(){
     printf("The concatenated strings are %s\n", strcat(str1, str2));
     printf("Now copying...\n");
     printf("First string is now %s", strcpy(str1, str2));
-    printf("\nChinmay Nanda");
 }
