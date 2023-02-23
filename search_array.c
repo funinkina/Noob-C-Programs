@@ -24,5 +24,4 @@ void main(){
     if(c==0){
         printf("'%d' does not exist in this array", s);
     }
-    printf("\nChinmay Nanda");
 }
