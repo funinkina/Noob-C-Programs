@@ -11,5 +11,4 @@ int main(){
         n /= 10;
     }
     printf("sum of digits is %d", sum);
-    printf("\nChinmay Nanda");
 }
