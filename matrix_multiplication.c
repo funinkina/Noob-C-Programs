@@ -36,5 +36,4 @@ void main(){
         }
         printf("]\n");
     }
-    printf("\nChinmay Nanda");    
 }
